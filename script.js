@@ -25,3 +25,4 @@ let yourArray = [
 		major = true
 	}
 ]
+console.log(yourArray);
