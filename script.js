@@ -1,28 +1,2 @@
-let yourArray = [
-	{
-		name = "Mani",
-		age = 25,
-		major = true
-	},
-	{
-		name = "Mani",
-		age = 25,
-		major = true
-	},
-	{
-		name = "Mani",
-		age = 25,
-		major = true
-	}'
-	{
-		name = "Mani",
-		age = 25,
-		major = true
-	},
-	{
-		name = "Mani",
-		age = 25,
-		major = true
-	}
-]
+let yourArray = [1,"string",false, 3, 4]
 console.log(yourArray);
