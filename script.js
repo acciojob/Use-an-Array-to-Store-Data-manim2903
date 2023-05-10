@@ -1,2 +1,2 @@
-let yourArray = [1,"string",false, 3, 4]
+let yourArray = ["string", 1, false, true, 23]
 console.log(yourArray);
